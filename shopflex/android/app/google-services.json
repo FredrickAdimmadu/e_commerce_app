@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892771060976",
+    "firebase_url": "https://shop-d9e74-default-rtdb.firebaseio.com",
+    "project_id": "shop-d9e74",
+    "storage_bucket": "shop-d9e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892771060976:android:2945032747f3817f3b0635",
+        "android_client_info": {
+          "package_name": "com.example.shopflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892771060976-qhcbpad4hsgkkotkc9j94dkn0q5tknhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK-c8hk59KZ5R7GS9EgwNrkapzU9E0lyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892771060976-qhcbpad4hsgkkotkc9j94dkn0q5tknhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
